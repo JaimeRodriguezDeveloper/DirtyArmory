@@ -1,0 +1,45 @@
+.title {
+    font-family: helvetica;
+    background-image: url("https://i.pinimg.com/originals/6d/df/89/6ddf89a95cc31286387b11c64c1991a8.jpg");
+    font-size: 100px;
+    color: black;
+    text-align: center;
+}
+.handgun {
+    background-color: mediumspringgreen;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+.rifle {
+    background-color: lightcoral;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+.shotgun{
+    background-color: skyblue;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+p{
+    font-family: Helvetica;
+    text-align: right;
+    font-size:24px;
+}
+li , footer {
+font-family: Helvetica;
+}
+.handgun_Pic{
+    width: 40%;
+}
+.rifle_Pic{
+    width:50%;
+}
+.shotgun_Pic{
+    width:30%;
+}
